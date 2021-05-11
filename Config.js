@@ -1,1 +1,4 @@
-window.location.href = "https://www.baidu.com"
+func setUpConfig () {
+  window.location.href = "https://www.baidu.com";
+}
+
