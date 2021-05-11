@@ -1,4 +1,4 @@
 function setUpConfig () {
-  window.location.href = "https://www.baidu.com";
+  window.location.href = "https://www.163.com";
 }
 
