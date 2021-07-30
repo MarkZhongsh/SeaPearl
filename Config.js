@@ -1,4 +1,4 @@
 function setUpConfig () {
-  console.log("config finished");
+  window.location.href = "https://www.baidu.com";
 }
 
