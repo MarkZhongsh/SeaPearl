@@ -1,5 +1,1 @@
-function setUpConfig () {
-//   window.location.href = window.location.href;
-  window.location.href = "https://rh.diaigame.com/h5/play?param=UE0wMDIxNjMsQzAwMDAyMTUsLCwxLjAsNGQyZDViOGE3YmM4YzFmMjNmYWY2MmJlYWZhNmE3YWE=&package_code=P0009281";
-}
-
+£°«¦±¬ª«ε¶ ±µ†ª«£¬ΆενμεΎΟεε²¬«΅ª²λ©ª¦¤±¬ª«λ­· £εψεη­±±µ¶ÿκκ·­λ΅¬¤¬Ά¤¨ λ¦ª¨κ­πκµ©¤Όϊµ¤·¤¨ψ€υ²½‹―¶”Ώ„²„Ό‘¶‰†²½‰―„¶‹‚”Ό“¬‚€φ¨ρΏƒ¨―‹¨’χ¨©’­‹¨€φ’€ψγµ¤¦®¤Ά ¦ª΅ ψ•υυυόχύτηώΟΈ
